@@ -1,0 +1,31 @@
+Projet : Système de Gestion de Stock (Fullstack )
+
+Contexte : Développement d'un espace collaboratif professionnel pour la gestion d'inventaire en temps réel.
+
+Technologies & Outils
+Backend : Node.js, Express.js.
+
+Base de données : MySQL avec Sequelize (Architecture MVC).
+
+Frontend : EJS et Vue.js.
+
+
+Collaboration : GitHub , Issues, Pull Requests.
+
+
+ Mes Contributions (Équipe de 4)
+
+Gestion Collaborative : Mise en place de l'espace de travail partagé et ajout des collaborateurs.
+
+Développement Technique : .
+
+
+Documentation : Rédaction du document d'accueil professionnel (README) détaillant la méthodologie.
+
+
+Contrôle Qualité : Réalisation de tests API via Postman et gestion rigoureuse des versions sur ma branche dédiée.
+
+ Résultats obtenus
+Système fonctionnel permettant le suivi des quantités et la gestion des fournisseurs.
+
+Historique de versions propre et communication professionnelle via Pull Requests.
